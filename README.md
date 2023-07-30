@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Passionate FullStack .NET Developer and digital nomad</h3>
+<h3 align="center">Passionate .NET Full Stack Web Developer and digital nomad</h3>
+
+- 🤝 I'll help you in your transition from .NET backend developer to .NET full stack web developer
 
 - 🔭 I’m currently working on **TypeScript/React/.NET project**
-
-- 🌱 I’m currently learning **TypeScript and testing**
+  
+- 🌱 I’m currently learning **authentication and authorization in .NET Web API**
 
 - 📝 I regulary write articles on [codejourney.net](https://codejourney.net)
 
-- 💬 Ask me about **.NET, C#, JavaScript, TypeScript and React**
+- 💬 You can ask me about **.NET, C#, JavaScript, TypeScript, React, testing and digital nomad lifestyle**
 
 - 📫 You can contact me at **dawid@dsibinski.pl**
 
