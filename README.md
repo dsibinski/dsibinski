@@ -3,9 +3,9 @@
 
 - 🤝 I'll help you in your transition from .NET backend developer to .NET full stack web developer
 
-- 🔭 I’m currently working on **TypeScript/React/.NET project**
+- 🔭 I’m currently working on **TypeScript/React/.NET/AWS project**
   
-- 🌱 I’m currently learning **authentication and authorization in .NET Web API**
+- 🌱 I’m currently learning **LLMs and AI Agents development**
 
 - 📝 I regulary write articles on [codejourney.net](https://codejourney.net)
 
